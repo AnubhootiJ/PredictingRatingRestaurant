@@ -120,3 +120,6 @@ e6 = mean_absolute_error(test_y, y_tree)  # MAE for Decision Tree Regression
 print("MAE for Decision Tree Regression = ", e6)
 e7 = mean_absolute_error(test_y, y_forest)  # MAE for Random Forest Regression
 print("MAE for Random Forest Regression = ", e7)
+
+from sklearn.externals import joblib
+joblib.dump(reg2, 'RF_model.pkl')

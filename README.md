@@ -9,6 +9,6 @@ The files this repository includes are -
 - Visualization.py -> Visualizing the data before creating the model
 - ZomatoDelhi.csv -> the dataset used in the project
 
-You can read in detail about the model here -
+You can read in detail about the model here - https://medium.com/@Anubhooti/how-i-created-my-first-project-in-machine-learning-predicting-the-rating-of-a-restaurant-ac9d0188499e?source=friends_link&sk=f41bea42206a1090f421e17f0256d660
 
 Note : I submitted this as my Minor Project in college back in December 2018
